@@ -44,7 +44,7 @@ nav>ul>li{
 }
 .bottom{
     position: sticky;
-    bottom: 0;
+    bottom: 0px;
     height: 130px;
     background-color: black;
     display: flex;
