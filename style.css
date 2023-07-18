@@ -32,7 +32,6 @@ nav>ul>li{
     padding: 0px 8px;
 }
 .container{
-    min-height: 70vh;
     background-color: black;
     color: white;
     display: flex;
